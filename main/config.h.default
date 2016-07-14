@@ -1,0 +1,8 @@
+// Wifi config
+const char* ssid = "";
+const char* password = "";
+
+// API Server
+
+const char* server = "";
+String hostName = "";
